@@ -6,7 +6,6 @@ class hello{
         int a=sc.nextInt();
         int b=a+a;
         System.out.println("Sum of the number: "+b);
-        System.out.println("Square of num is: "+a*a); 
-        
+        System.out.println("Square of num is: "+a*a);
     }
 }
