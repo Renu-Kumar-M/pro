@@ -7,5 +7,7 @@ class hello{
         int b=a+a;
         System.out.println("Sum of the number: "+b);
         System.out.println("Square of num is: "+a*a); 
+        int c =a-a;
+        System.out.println("Sub of the numbers: "+c);
     }
 }
